@@ -7,6 +7,10 @@ style="max-width:100%;">
 </a> <a href="https://wa.me/qr/EFD7NBCXG5USN1" target="_blank">
 <img align="center" alt="emanuel-whatssap" height="20" width="20" src="https://www.onlinesierbestratingkopen.nl/themes/bullseyedesignblanco/assets/image/vendor/icon_whatsapp_square.png"
 style="max-width:100%;">
+</a><a href="https://www.instagram.com/emanuel_gv3/" target="_blank">
+<img align="center" alt="emanuel-whatssap" height="20" width="20" src="https://volumeone.org/themes/volumeone/images/logo_instagram_color.png"
+style="max-width:100%;">
 </a>
+ 
  
  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcop3&show_icons=true&theme=tokyonight)
