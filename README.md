@@ -6,8 +6,9 @@
 <img align="center" alt="emanuel-linkedin" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
 style="max-width:100%;">
 </a>
-  <a href="https://wa.me/qr/EFD7NBCXG5USN1" target="_blank">
-<img align="center" alt="emanuel-linkedin" height="100" width="70" src="https://cdn.freelogovectors.net/wp-content/uploads/2014/02/WhatsApp_Logo_6.png"
+ 
+ <a href="https://wa.me/qr/EFD7NBCXG5USN1" target="_blank">
+<img align="center" alt="emanuel-linkedin" height="90" width="70" src="https://www.onlinesierbestratingkopen.nl/themes/bullseyedesignblanco/assets/image/vendor/icon_whatsapp_square.png"
 style="max-width:100%;">
 </a>
  
