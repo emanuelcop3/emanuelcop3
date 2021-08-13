@@ -9,4 +9,4 @@ style="max-width:100%;">
 style="max-width:100%;">
 </a>
  
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcop3&show_icons=true&theme=onedark)
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=emanuelcop3&show_icons=true&theme=dracula)
