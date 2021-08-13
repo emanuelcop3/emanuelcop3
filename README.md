@@ -6,8 +6,6 @@
 style="max-width:100%;">
 </a>
  
-
-
 <a href="https://wa.me/qr/EFD7NBCXG5USN1" target="_blank">
 <img align="center" alt="emanuel-whatssap" height="20" width="20" src="https://www.onlinesierbestratingkopen.nl/themes/bullseyedesignblanco/assets/image/vendor/icon_whatsapp_square.png"
 style="max-width:100%;">
