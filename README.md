@@ -1,4 +1,4 @@
-# Hi 👋! Eu sou Emanuel de Oliveira Costa.
+# Hi 👋! I'm Emanuel de Oliveira Costa.
 
  💻I am a student of Data Science and Artificial Intelligence at PUC-SP.
  
