@@ -1,7 +1,7 @@
 # Hi 👋! I'm Emanuel de Oliveira Costa.
 
  💻I am a student of Data Science and Artificial Intelligence at PUC-SP.
- <img align="center" alt="emanuel-linkedin" height="100" width="70" src="![image](https://user-images.githubusercontent.com/82065728/153774395-ee3bed91-378b-4e62-888c-cea89392f3cd.png)
+ <img align="center" alt="Inteli" height="100" width="70" src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png
 "
 style="max-width:100%;">
  
