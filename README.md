@@ -1,7 +1,8 @@
 # Hi 👋! I'm Emanuel de Oliveira Costa.
 
  💻I am a student of Data Science and Artificial Intelligence at PUC-SP.
- <img align="center" alt="emanuel-linkedin" height="100" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
+ <img align="center" alt="emanuel-linkedin" height="100" width="70" src="![image](https://user-images.githubusercontent.com/82065728/153774395-ee3bed91-378b-4e62-888c-cea89392f3cd.png)
+"
 style="max-width:100%;">
  
  ## Contact :<a href="https://www.linkedin.com/in/emanuel-de-oliveira-costa-45b637185/" target="_blank">
