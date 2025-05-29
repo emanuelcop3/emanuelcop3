@@ -1,37 +1,33 @@
 # Emanuel de Oliveira Costa
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&height=100&lines=Data+Analyst;Data+Visualization+Expert;Business+Intelligence+Professional" alt="Typing SVG" />
-</div>
-
-<div align="center">
   <img src="https://www.inteli.edu.br/wp-content/uploads/2021/08/20172028/marca_1-2.png" alt="Inteli" width="160" height="90">
 </div>
 
-## 👨‍💻 About Me
+## 👨‍💻 Sobre Mim
 
-- 🔭 I'm currently studying at **Inteli - Instituto de Tecnologia e Liderança**
-- 🌱 Passionate about **Data Analysis**, **Data Visualization**, and **Business Intelligence**
-- 💡 Always eager to learn new technologies and methodologies
-- 🎯 Focused on transforming data into actionable insights
+- 🔭 Estudante do **Inteli - Instituto de Tecnologia e Liderança**
+- 🌱 Apaixonado por **Análise de Dados**, **Visualização de Dados** e **Business Intelligence**
+- 💡 Sempre em busca de novos conhecimentos e tecnologias
+- 🎯 Focado em transformar dados em insights acionáveis
 
-## 🚀 Skills & Expertise
+## 🚀 Habilidades
 
 <div align="center">
   <table>
     <tr>
       <td align="center">
-        <b>Programming & Databases</b><br>
-        <img src="https://cdn.svgporn.com/logos/python.svg" alt="Python" width="64" height="64"><br>
-        <img src="https://cdn.svgporn.com/logos/mysql.svg" alt="MySQL" width="64" height="64">
+        <b>Programação & Banco de Dados</b><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="64" height="64"><br>
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="64" height="64">
       </td>
       <td align="center">
-        <b>Data Analysis</b><br>
+        <b>Análise de Dados</b><br>
         <img src="https://pandas.pydata.org/static/img/pandas.svg" alt="Pandas" width="64" height="64"><br>
         <img src="https://numpy.org/images/logo.svg" alt="NumPy" width="64" height="64">
       </td>
       <td align="center">
-        <b>Data Visualization</b><br>
+        <b>Visualização de Dados</b><br>
         <img src="https://matplotlib.org/_images/sphx_glr_logos2_001.png" alt="Matplotlib" width="64" height="64"><br>
         <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="64" height="64">
       </td>
@@ -43,7 +39,7 @@
   </table>
 </div>
 
-## 📫 Connect With Me
+## 📫 Contato
 
 <div align="center">
   <a href="https://www.linkedin.com/in/emanuel-de-oliveira-costa-45b637185/" target="_blank">
@@ -57,21 +53,11 @@
   </a>
 </div>
 
-## 📊 GitHub Analytics
+## 📊 Estatísticas do GitHub
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelgv3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgv3&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelgv3&theme=radical" alt="GitHub Streak"/>
-</div>
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emanuelgv3&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
