@@ -1,91 +1,22 @@
-<div align="center">
-# Emanuel de Oliveira Costa
-
-
+# Nautic.AI 🚢
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Emanuel%20Costa&fontSize=80&fontAlignY=35&animation=twinkling&desc=Data%20Analyst%20|%20Maritime%20AI%20Specialist&descAlignY=55&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=2E8B57&height=200&section=header&text=Nautic.AI&fontSize=80&fontAlignY=35&animation=twinkling&desc=Maritime%20Intelligence%20Platform&descAlignY=55&descAlign=50"/>
 </div>
 
-## 🎯 Sobre Mim
+## 📋 Sobre o Projeto
 
-```python
-class MaritimeDataAnalyst:
-    def __init__(self):
-        self.name = "Emanuel de Oliveira Costa"
-        self.role = "Data Analyst & Maritime AI Specialist"
-        self.education = "Inteli - Instituto de Tecnologia e Liderança"
-        self.location = "São Paulo, Brasil"
-        self.current_project = "Nautic.AI - Maritime Intelligence Platform"
-        
-        self.skills = {
-            "Data Analysis": [
-                "Python", 
-                "Pandas", 
-                "NumPy", 
-                "Estatística",
-                "Análise de Dados Marítimos"
-            ],
-            "Data Visualization": [
-                "Matplotlib", 
-                "Seaborn", 
-                "Power BI", 
-                "Storytelling",
-                "Visualização de Dados Náuticos"
-            ],
-            "Database": [
-                "MySQL", 
-                "SQL", 
-                "Modelagem de Dados",
-                "Dados de Navegação"
-            ],
-            "Business Intelligence": [
-                "Power BI", 
-                "Dashboards", 
-                "KPIs", 
-                "Análise de Negócios",
-                "Métricas de Eficiência Marítima"
-            ],
-            "Maritime Expertise": [
-                "Análise de Rotas",
-                "Otimização de Navegação",
-                "Dados de Sensores",
-                "Inteligência Marítima"
-            ]
-        }
-        
-        self.interests = [
-            "Inteligência Artificial Marítima",
-            "Análise de Dados Náuticos",
-            "Otimização de Rotas",
-            "Machine Learning",
-            "Business Intelligence"
-        ]
-        
-        self.soft_skills = [
-            "Trabalho em Equipe",
-            "Comunicação Efetiva",
-            "Resolução de Problemas",
-            "Pensamento Analítico",
-            "Gestão de Projetos"
-        ]
-        
-    def about(self):
-        return """
-        Sou um profissional especializado em análise de dados marítimos e inteligência artificial,
-        atualmente trabalhando no projeto Nautic.AI. Minha expertise combina análise de dados
-        com conhecimento em navegação e otimização de rotas marítimas.
-        
-        Atualmente, estou focado em:
-        - Desenvolvimento de dashboards para monitoramento marítimo
-        - Análise preditiva de rotas e eficiência
-        - Otimização de processos de navegação
-        - Criação de relatórios automatizados de performance
-        - Implementação de soluções de IA para o setor marítimo
-        """
-```
+Nautic.AI é uma plataforma de inteligência marítima que utiliza análise de dados e inteligência artificial para otimizar operações náuticas. O projeto visa transformar dados marítimos em insights acionáveis, melhorando a eficiência e segurança das operações de navegação.
 
-## 🛠️ Stack Tecnológica
+## 🎯 Objetivos
+
+- Otimização de rotas marítimas
+- Análise preditiva de condições de navegação
+- Monitoramento em tempo real de embarcações
+- Redução de custos operacionais
+- Aumento da segurança na navegação
+
+## 🛠️ Tecnologias Utilizadas
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -96,13 +27,68 @@ class MaritimeDataAnalyst:
   <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=ai&logoColor=white"/>
 </div>
 
-## 📊 Análise de Dados
+## 📊 Funcionalidades Principais
 
-<div align="center">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-0B76A8?style=for-the-badge&logo=seaborn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Maritime_Data-2E8B57?style=for-the-badge&logo=ship&logoColor=white"/>
-</div>
+### 1. Análise de Rotas
+- Otimização de trajetos
+- Previsão de tempo de viagem
+- Análise de condições climáticas
+- Identificação de rotas mais eficientes
+
+### 2. Monitoramento em Tempo Real
+- Tracking de embarcações
+- Análise de performance
+- Alertas de segurança
+- Monitoramento de consumo de combustível
+
+### 3. Business Intelligence
+- Dashboards interativos
+- Relatórios automatizados
+- KPIs de performance
+- Análise de custos
+
+### 4. Inteligência Artificial
+- Previsão de condições marítimas
+- Detecção de anomalias
+- Otimização de rotas
+- Análise preditiva
+
+## 📈 Benefícios
+
+- **Eficiência**: Redução de custos operacionais
+- **Segurança**: Prevenção de incidentes
+- **Sustentabilidade**: Otimização de consumo de combustível
+- **Decisão**: Insights baseados em dados
+- **Automação**: Processos otimizados
+
+## 👥 Equipe
+
+- **Emanuel de Oliveira Costa** - Data Analyst & Maritime AI Specialist
+- [Outros membros da equipe]
+
+## 🔄 Fluxo de Trabalho
+
+1. Coleta de dados marítimos
+2. Processamento e análise
+3. Geração de insights
+4. Visualização em dashboards
+5. Implementação de melhorias
+
+## 📊 Métricas de Sucesso
+
+- Redução de custos operacionais
+- Melhoria na eficiência de rotas
+- Aumento na segurança
+- Satisfação dos usuários
+- ROI do projeto
+
+## 🚀 Próximos Passos
+
+- [ ] Implementação de novos modelos de IA
+- [ ] Expansão da cobertura de dados
+- [ ] Melhorias na interface do usuário
+- [ ] Integração com novos sistemas
+- [ ] Desenvolvimento de novas funcionalidades
 
 ## 📫 Contato
 
@@ -113,20 +99,6 @@ class MaritimeDataAnalyst:
   <a href="https://wa.me/qr/EFD7NBCXG5USN1" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/emanuel_gv3/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</div>
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=emanuelgv3&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emanuelgv3&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emanuelgv3&theme=radical" alt="GitHub Streak"/>
 </div>
 
 ---
