@@ -1,16 +1,21 @@
-# Nautic.Bot 🌊🚢
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=220&section=header&text=Nautic.Bot&fontSize=75&fontColor=ffffff&fontAlignY=35&animation=fadeIn&desc=AI%20for%20Offshore%20%26%20Maritime%20Operations&descAlignY=55&descAlign=50"/>
-</div>
+# 🌊 Nautic.Bot — AI for Offshore & Maritime Intelligence 🚢
 
 <div align="center">
 
-![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge)
-![Offshore](https://img.shields.io/badge/Offshore-Tech-blue?style=for-the-badge)
-![Oil&Gas](https://img.shields.io/badge/Oil%20%26%20Gas-1E3A8A?style=for-the-badge)
-![Maritime](https://img.shields.io/badge/Maritime-0F172A?style=for-the-badge)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B132B&height=260&section=header&text=Nautic.Bot&fontSize=78&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI-Powered%20Offshore%20%26%20Maritime%20Intelligence&descAlignY=58&descAlign=50"/>
+
+<br>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+for+Offshore+Operations;Maritime+Operational+Intelligence;Predictive+Analytics+%26+Automation;Oil+%26+Gas+Innovation;Real-Time+Fleet+Monitoring"/>
+
+<br><br>
+
+![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
+![Offshore](https://img.shields.io/badge/Offshore-Tech-1E3A8A?style=for-the-badge)
+![Oil&Gas](https://img.shields.io/badge/Oil%20%26%20Gas-0F172A?style=for-the-badge)
+![Maritime](https://img.shields.io/badge/Maritime-0369A1?style=for-the-badge)
 ![Data](https://img.shields.io/badge/Data%20Driven-0891B2?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge)
 
 </div>
 
@@ -18,163 +23,230 @@
 
 # 🌍 About Nautic.Bot
 
-Nautic.Bot is an AI-powered offshore and maritime intelligence platform focused on transforming operational data into actionable insights for the Oil & Gas, maritime logistics, and offshore industries.
+> **Nautic.Bot** is an AI-powered platform focused on transforming offshore and maritime operational data into intelligent, real-time decision-making systems.
 
-Our mission is to modernize offshore operations through artificial intelligence, predictive analytics, automation, and real-time monitoring systems.
+We develop solutions for the **Oil & Gas**, **offshore**, and **maritime logistics** industries through the integration of:
 
-We combine maritime expertise, AI agents, computer vision, data analytics, and operational intelligence to improve:
+- Artificial Intelligence
+- Multi-Agent Systems
+- Predictive Analytics
+- Operational Intelligence
+- Real-Time Monitoring
+- Intelligent Automation
 
-- Offshore safety
-- Operational efficiency
-- Navigation intelligence
-- Predictive maintenance
-- Environmental monitoring
-- Fleet performance
+Our mission is to modernize industrial maritime operations by increasing:
+
+✅ Operational efficiency  
+✅ Offshore safety  
+✅ Navigation intelligence  
+✅ Fleet performance  
+✅ Sustainability & ESG performance  
+✅ Predictive operational capabilities  
 
 ---
 
 # 🚀 Vision
 
-To become a global reference in AI solutions for maritime and offshore operations.
+<div align="center">
 
-Nautic.Bot aims to help shipping companies, offshore operators, ports, and energy companies reduce operational costs while increasing safety, sustainability, and efficiency.
+### “Building the future of AI-powered offshore operations.”
+
+</div>
+
+Nautic.Bot aims to become a global reference in intelligent offshore and maritime technologies, enabling companies to operate with greater efficiency, safety, and sustainability.
+
+We believe the future of industrial operations will be driven by:
+
+- AI copilots
+- Autonomous operational intelligence
+- Predictive systems
+- Real-time industrial analytics
+- Intelligent maritime infrastructure
 
 ---
 
 # ⚡ Core Solutions
 
-## 🌊 Offshore Operational Intelligence
-- Real-time monitoring systems
-- AI-assisted decision support
-- Offshore analytics dashboards
-- Vessel operational tracking
+<table>
+<tr>
+<td width="50%">
+
+## 🌊 Offshore Intelligence
+- Real-time offshore monitoring
+- Operational analytics dashboards
+- Vessel operational intelligence
+- Industrial risk monitoring
+- Offshore decision-support systems
+
+</td>
+<td width="50%">
 
 ## 🤖 AI Agents & Automation
 - Multi-agent AI systems
-- Intelligent operational copilots
+- AI operational copilots
 - Automated reporting workflows
-- Predictive analytics engines
+- Intelligent alert systems
+- Autonomous analytics pipelines
 
-## 📡 Maritime Monitoring
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+## 📡 Maritime Analytics
 - Vessel behavior analysis
-- Navigation intelligence
+- Smart navigation systems
 - Route optimization
-- Weather and ocean condition analysis
+- Ocean & weather intelligence
+- Fleet performance analytics
+
+</td>
+<td width="50%">
 
 ## 🛢️ Oil & Gas Applications
-- Offshore asset intelligence
 - Platform operational monitoring
-- Fuel consumption optimization
-- Risk detection systems
+- Fuel optimization systems
+- Predictive maintenance
+- Asset intelligence
+- Operational anomaly detection
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 🧠 Technologies
+# 🧠 Technology Stack
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,azure,git"/>
+
+<br><br>
+
 <img src="https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Multi--Agent%20Systems-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Operational%20AI-0284C7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Industrial%20Analytics-1D4ED8?style=for-the-badge"/>
 
 </div>
 
 ---
 
-# 📊 Key Features
+# 📊 Platform Capabilities
 
-## 📈 Predictive Analytics
+## 📈 Predictive Intelligence
 - AI forecasting models
-- Operational anomaly detection
-- Predictive maintenance insights
-- Risk prediction systems
+- Predictive operational analytics
+- Failure prediction systems
+- Anomaly detection engines
+- Predictive maintenance workflows
 
-## 🛰️ Real-Time Intelligence
+---
+
+## 🛰️ Real-Time Operations
 - Live operational dashboards
-- Fleet monitoring
+- Fleet monitoring systems
+- Offshore operational visibility
 - Maritime data visualization
-- Offshore event tracking
+- Intelligent operational alerts
 
-## ⚓ Navigation Optimization
-- Smart route planning
-- Fuel efficiency optimization
-- Ocean and weather analysis
+---
+
+## ⚓ Smart Navigation
+- Route optimization
+- Fuel efficiency intelligence
+- Ocean & weather analysis
 - Performance benchmarking
+- Operational recommendation systems
+
+---
 
 ## 🔒 Safety & Compliance
-- AI-based risk analysis
-- Operational alerts
-- Incident prevention systems
-- Offshore compliance monitoring
+- AI-driven risk analysis
+- Offshore safety monitoring
+- Compliance tracking systems
+- Incident prevention intelligence
+- Critical event detection
 
 ---
 
 # 🌱 ESG & Sustainability
 
-Nautic.Bot supports sustainable offshore and maritime operations by:
+Nautic.Bot supports sustainable industrial operations through intelligent optimization systems.
 
-- Reducing fuel waste
-- Optimizing operational efficiency
-- Lowering carbon emissions
-- Supporting environmental monitoring
-- Improving resource utilization
+### Environmental Impact
+- Reduction of fuel waste
+- Lower operational emissions
+- Intelligent resource allocation
+- Environmental monitoring systems
+- Sustainable offshore operations
+
+### Industrial Impact
+- Operational efficiency gains
+- Reduced downtime
+- Predictive maintenance optimization
+- Cost reduction through AI
+- Improved operational resilience
 
 ---
 
 # 👨‍💻 Founder
 
+<div align="center">
+
 ## Emanuel Oliveira Costa
 
-- AI & Data Analyst
-- Founder of Nautic.Bot
-- Specialist in Generative AI and Multi-Agent Systems
-- Experience in Data Analytics, AI Automation, and Operational Intelligence
+### AI & Data Analyst • Founder of Nautic.Bot
+
+</div>
+
+- Specialist in Generative AI & Multi-Agent Systems
+- Experience in AI Automation & Operational Intelligence
+- Background in Data Analytics & Industrial Systems
 - Engineering student at Inteli
-- Background in hackathons, AI systems, and intelligent platforms
+- Experience in hackathons and AI innovation ecosystems
+- Focused on AI applications for industrial & offshore environments
 
 ---
 
 # 🏆 Highlights
 
-- Development of AI-powered maritime intelligence solutions
-- Experience building complex multi-agent AI architectures
-- Focus on offshore innovation and operational optimization
-- Participation in innovation ecosystems and startup programs
-- Integration of AI with industrial and operational environments
+<div align="center">
+
+| 🚀 Innovation | 🤖 AI Systems | 🌊 Offshore |
+|---|---|---|
+| Maritime Intelligence | Multi-Agent Architectures | Operational Analytics |
+| Industrial AI | Predictive Systems | Offshore Optimization |
+| Automation | Intelligent Dashboards | Real-Time Monitoring |
+
+</div>
 
 ---
 
 # 📌 Current Focus
 
 - Offshore AI copilots
-- Maritime intelligence systems
-- Predictive operational analytics
-- Oil & Gas operational optimization
+- Maritime operational intelligence
+- Predictive industrial analytics
+- Oil & Gas optimization systems
 - AI automation for industrial environments
+- Real-time operational monitoring
 
 ---
 
-# 📫 Contact
+# 🌐 Strategic Vision
 
-<div align="center">
+Nautic.Bot is positioned at the intersection of:
 
-<a href="https://www.linkedin.com/in/emanuelcosta2/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:oliveiracostaemanuel2@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0B1F3A&height=120&section=footer"/>
-</div>
+```text
+Artificial Intelligence
+        +
+Industrial Operations
+        +
+Offshore & Maritime Systems
+        =
+Next-Generation Operational Intelligence
