@@ -2,20 +2,24 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0B132B&height=260&section=header&text=Nautic.Bot&fontSize=78&fontColor=FFFFFF&fontAlignY=36&animation=fadeIn&desc=AI-Powered%20Offshore%20%26%20Maritime%20Intelligence&descAlignY=58&descAlign=50"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0B132B&height=260&section=header&text=Nautic.Bot&fontSize=78&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=AI-Powered%20Offshore%20%26%20Maritime%20Intelligence&descAlignY=60&descAlign=50"/>
 
 <br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&duration=3500&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=AI+for+Offshore+Operations;Maritime+Operational+Intelligence;Predictive+Analytics+%26+Automation;Oil+%26+Gas+Innovation;Real-Time+Fleet+Monitoring"/>
-
-<br><br>
 
 ![AI](https://img.shields.io/badge/Artificial%20Intelligence-0A66C2?style=for-the-badge&logo=openai&logoColor=white)
 ![Offshore](https://img.shields.io/badge/Offshore-Tech-1E3A8A?style=for-the-badge)
 ![Oil&Gas](https://img.shields.io/badge/Oil%20%26%20Gas-0F172A?style=for-the-badge)
 ![Maritime](https://img.shields.io/badge/Maritime-0369A1?style=for-the-badge)
-![Data](https://img.shields.io/badge/Data%20Driven-0891B2?style=for-the-badge)
 ![Automation](https://img.shields.io/badge/Automation-111827?style=for-the-badge)
+![Data](https://img.shields.io/badge/Data%20Driven-0891B2?style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+## ⚡ Predictive Analytics • Offshore Intelligence • AI Automation
 
 </div>
 
@@ -23,9 +27,9 @@
 
 # 🌍 About Nautic.Bot
 
-> **Nautic.Bot** is an AI-powered platform focused on transforming offshore and maritime operational data into intelligent, real-time decision-making systems.
+> Nautic.Bot is an AI-powered offshore and maritime intelligence platform focused on transforming operational data into intelligent real-time decision systems.
 
-We develop solutions for the **Oil & Gas**, **offshore**, and **maritime logistics** industries through the integration of:
+We build solutions for the **Oil & Gas**, **offshore**, and **maritime logistics** sectors using:
 
 - Artificial Intelligence
 - Multi-Agent Systems
@@ -34,14 +38,7 @@ We develop solutions for the **Oil & Gas**, **offshore**, and **maritime logisti
 - Real-Time Monitoring
 - Intelligent Automation
 
-Our mission is to modernize industrial maritime operations by increasing:
-
-✅ Operational efficiency  
-✅ Offshore safety  
-✅ Navigation intelligence  
-✅ Fleet performance  
-✅ Sustainability & ESG performance  
-✅ Predictive operational capabilities  
+Our mission is to modernize industrial maritime operations through data, automation, and AI-driven decision-making.
 
 ---
 
@@ -53,15 +50,13 @@ Our mission is to modernize industrial maritime operations by increasing:
 
 </div>
 
-Nautic.Bot aims to become a global reference in intelligent offshore and maritime technologies, enabling companies to operate with greater efficiency, safety, and sustainability.
+Nautic.Bot aims to become a global reference in intelligent maritime and offshore technologies, helping companies operate with:
 
-We believe the future of industrial operations will be driven by:
-
-- AI copilots
-- Autonomous operational intelligence
-- Predictive systems
-- Real-time industrial analytics
-- Intelligent maritime infrastructure
+✅ More efficiency  
+✅ Greater operational safety  
+✅ Lower operational costs  
+✅ Better environmental performance  
+✅ Intelligent real-time monitoring  
 
 ---
 
@@ -71,20 +66,23 @@ We believe the future of industrial operations will be driven by:
 <tr>
 <td width="50%">
 
-## 🌊 Offshore Intelligence
+## 🌊 Offshore Operational Intelligence
+
 - Real-time offshore monitoring
 - Operational analytics dashboards
 - Vessel operational intelligence
+- Offshore decision support systems
 - Industrial risk monitoring
-- Offshore decision-support systems
 
 </td>
+
 <td width="50%">
 
 ## 🤖 AI Agents & Automation
+
 - Multi-agent AI systems
 - AI operational copilots
-- Automated reporting workflows
+- Automated workflows
 - Intelligent alert systems
 - Autonomous analytics pipelines
 
@@ -95,6 +93,7 @@ We believe the future of industrial operations will be driven by:
 <td width="50%">
 
 ## 📡 Maritime Analytics
+
 - Vessel behavior analysis
 - Smart navigation systems
 - Route optimization
@@ -102,14 +101,16 @@ We believe the future of industrial operations will be driven by:
 - Fleet performance analytics
 
 </td>
+
 <td width="50%">
 
 ## 🛢️ Oil & Gas Applications
+
 - Platform operational monitoring
 - Fuel optimization systems
 - Predictive maintenance
-- Asset intelligence
-- Operational anomaly detection
+- Asset operational intelligence
+- Anomaly detection systems
 
 </td>
 </tr>
@@ -121,7 +122,7 @@ We believe the future of industrial operations will be driven by:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,azure,git"/>
+<img src="https://skillicons.dev/icons?i=python,fastapi,docker,postgres,azure,git" />
 
 <br><br>
 
@@ -139,15 +140,17 @@ We believe the future of industrial operations will be driven by:
 # 📊 Platform Capabilities
 
 ## 📈 Predictive Intelligence
+
 - AI forecasting models
 - Predictive operational analytics
 - Failure prediction systems
-- Anomaly detection engines
 - Predictive maintenance workflows
+- Operational anomaly detection
 
 ---
 
 ## 🛰️ Real-Time Operations
+
 - Live operational dashboards
 - Fleet monitoring systems
 - Offshore operational visibility
@@ -157,6 +160,7 @@ We believe the future of industrial operations will be driven by:
 ---
 
 ## ⚓ Smart Navigation
+
 - Route optimization
 - Fuel efficiency intelligence
 - Ocean & weather analysis
@@ -166,6 +170,7 @@ We believe the future of industrial operations will be driven by:
 ---
 
 ## 🔒 Safety & Compliance
+
 - AI-driven risk analysis
 - Offshore safety monitoring
 - Compliance tracking systems
@@ -179,6 +184,7 @@ We believe the future of industrial operations will be driven by:
 Nautic.Bot supports sustainable industrial operations through intelligent optimization systems.
 
 ### Environmental Impact
+
 - Reduction of fuel waste
 - Lower operational emissions
 - Intelligent resource allocation
@@ -186,6 +192,7 @@ Nautic.Bot supports sustainable industrial operations through intelligent optimi
 - Sustainable offshore operations
 
 ### Industrial Impact
+
 - Operational efficiency gains
 - Reduced downtime
 - Predictive maintenance optimization
@@ -209,7 +216,7 @@ Nautic.Bot supports sustainable industrial operations through intelligent optimi
 - Background in Data Analytics & Industrial Systems
 - Engineering student at Inteli
 - Experience in hackathons and AI innovation ecosystems
-- Focused on AI applications for industrial & offshore environments
+- Focused on AI applications for offshore & industrial environments
 
 ---
 
@@ -240,7 +247,7 @@ Nautic.Bot supports sustainable industrial operations through intelligent optimi
 
 # 🌐 Strategic Vision
 
-Nautic.Bot is positioned at the intersection of:
+<div align="center">
 
 ```text
 Artificial Intelligence
